@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="clashroyale"
+version="${file.jarVersion}"
+displayName="Clash Royale Mod"
+description='''
+Um mod para Minecraft que replica o jogo Clash Royale!
+Inclui sistema de cartas, arena de batalha, elixir e muito mais.
+'''
+
+[[dependencies.clashroyale]]
+modId="forge"
+mandatory=true
+versionRange="[43.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.clashroyale]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"
+

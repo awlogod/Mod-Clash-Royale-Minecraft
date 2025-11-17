@@ -1,0 +1,23 @@
+{
+  "item.clashroyale.card_archer": "Carta Arqueiro",
+  "item.clashroyale.card_giant": "Carta Gigante",
+  "item.clashroyale.card_goblin": "Carta Goblin",
+  "item.clashroyale.card_knight": "Carta Cavaleiro",
+  "item.clashroyale.card_prince": "Carta Príncipe",
+  "item.clashroyale.card_wizard": "Carta Mago",
+  "item.clashroyale.card_pekka": "Carta PEKKA",
+  "item.clashroyale.card_minion": "Carta Servo",
+  "item.clashroyale.elixir": "Elixir",
+  "block.clashroyale.arena_block": "Bloco de Arena",
+  "block.clashroyale.crown_tower": "Torre Coroa",
+  "entity.clashroyale.archer": "Arqueiro",
+  "entity.clashroyale.giant": "Gigante",
+  "entity.clashroyale.goblin": "Goblin",
+  "entity.clashroyale.knight": "Cavaleiro",
+  "entity.clashroyale.prince": "Príncipe",
+  "entity.clashroyale.wizard": "Mago",
+  "entity.clashroyale.pekka": "PEKKA",
+  "entity.clashroyale.minion": "Servo",
+  "entity.clashroyale.crown_tower": "Torre Coroa"
+}
+

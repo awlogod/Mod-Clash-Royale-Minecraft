@@ -1,0 +1,23 @@
+{
+  "item.clashroyale.card_archer": "Archer Card",
+  "item.clashroyale.card_giant": "Giant Card",
+  "item.clashroyale.card_goblin": "Goblin Card",
+  "item.clashroyale.card_knight": "Knight Card",
+  "item.clashroyale.card_prince": "Prince Card",
+  "item.clashroyale.card_wizard": "Wizard Card",
+  "item.clashroyale.card_pekka": "PEKKA Card",
+  "item.clashroyale.card_minion": "Minion Card",
+  "item.clashroyale.elixir": "Elixir",
+  "block.clashroyale.arena_block": "Arena Block",
+  "block.clashroyale.crown_tower": "Crown Tower",
+  "entity.clashroyale.archer": "Archer",
+  "entity.clashroyale.giant": "Giant",
+  "entity.clashroyale.goblin": "Goblin",
+  "entity.clashroyale.knight": "Knight",
+  "entity.clashroyale.prince": "Prince",
+  "entity.clashroyale.wizard": "Wizard",
+  "entity.clashroyale.pekka": "PEKKA",
+  "entity.clashroyale.minion": "Minion",
+  "entity.clashroyale.crown_tower": "Crown Tower"
+}
+
